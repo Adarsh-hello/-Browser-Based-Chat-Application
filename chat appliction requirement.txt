@@ -1,0 +1,10 @@
+Dependencies:
+
+socket – TCP connection
+
+threading – For async communication
+
+tkinter – GUI
+
+scrolledtext – Chat window
+
